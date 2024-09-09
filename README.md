@@ -1,9 +1,8 @@
 # Business-Insights-360
 
-Certainly! Here’s an updated version of your Power BI project summary with the latest terminology and practices:
 
 
-**End-to-End Power BI Project**
+End-to-End Power BI Project
 
 I’m thrilled to share insights from my recent Power BI project, which was guided by CodeBasics. This experience was highly educational and engaging, showcasing the advanced capabilities of Power BI. Essentially, Power BI extends the functionality of Excel, offering a more powerful and intuitive way to create interactive dashboards, especially with large datasets.
 
