@@ -1,4 +1,4 @@
-# Business-Insights---360
+# Business-Insights-360
 
 Certainly! Here’s an updated version of your Power BI project summary with the latest terminology and practices:
 
